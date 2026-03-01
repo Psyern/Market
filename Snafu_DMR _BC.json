@@ -1,0 +1,58 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Snafu_DMR_BC",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [ 
+    {
+      "ClassName": "SNAFUKivaari_Black_GUN",
+      "MaxPriceThreshold": 20,
+      "MinPriceThreshold": 20,
+       "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 24,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "SNAFUKivaari_Tan_GUN",
+        "SNAFUKivaari_Grey_GUN",
+        "SNAFUKivaari_Snow_GUN"
+      ]
+    },
+    {
+      "ClassName": "GCGN_M82_Barret",
+      "MaxPriceThreshold": 182,
+      "MinPriceThreshold": 182,
+       "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 24,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFU_AS50_GUN",
+      "MaxPriceThreshold": 182,
+      "MinPriceThreshold": 182,
+       "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 24,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFUGM6Lynx",
+      "MaxPriceThreshold": 262,
+      "MinPriceThreshold": 262,
+       "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 24,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

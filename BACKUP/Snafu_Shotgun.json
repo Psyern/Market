@@ -1,0 +1,98 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Snafu_Shotgun",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [ 
+    {
+      "ClassName": "SNAFU_Trenchgun",
+      "MaxPriceThreshold": 130000,
+      "MinPriceThreshold": 110500,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 24,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SN_M870",
+      "MaxPriceThreshold": 117000,
+      "MinPriceThreshold": 99450,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 24,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GCGN_BenelliM4",
+      "MaxPriceThreshold": 819000,
+      "MinPriceThreshold": 696150,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 12,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SN_Auto_Shotgun",
+      "MaxPriceThreshold": 1462500,
+      "MinPriceThreshold": 1243125,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 24,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Spas12_Gun",
+      "MaxPriceThreshold": 1462500,
+      "MinPriceThreshold": 1243125,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 24,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "AA12_Gun",
+      "MaxPriceThreshold": 1755000,
+      "MinPriceThreshold": 1491750,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 24,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFU_TP82S",
+      "MaxPriceThreshold": 65000,
+      "MinPriceThreshold": 55250,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 24,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "VR80_Gun",
+      "MaxPriceThreshold": 2925000,
+      "MinPriceThreshold": 2486250,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 24,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

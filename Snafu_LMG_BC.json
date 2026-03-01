@@ -1,0 +1,45 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Snafu_LMG BC",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [ 
+    {
+      "ClassName": "GCGN_M249",
+      "MaxPriceThreshold": 25,
+      "MinPriceThreshold": 25,
+       "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 24,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Snafu_pkp_Black_GUN",
+      "MaxPriceThreshold": 25,
+      "MinPriceThreshold": 25,
+       "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 24,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Snafu_pkp_NBlack_GUN"
+      ]
+    },
+    {
+      "ClassName": "SNAFU_U100",
+      "MaxPriceThreshold": 10,
+      "MinPriceThreshold": 10,
+       "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 24,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

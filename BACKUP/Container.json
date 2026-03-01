@@ -1,0 +1,230 @@
+{
+  "m_Version": 12,
+  "DisplayName": "BASE BUILDING KITS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "A6_MedicalCabinet_Kit",
+      "MaxPriceThreshold": 25334,
+      "MinPriceThreshold": 21534,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "A6_MedicalCabinet_Black_Kit"
+      ]
+    },
+    {
+      "ClassName": "A6_GreenHouse_Kit",
+      "MaxPriceThreshold": 88945,
+      "MinPriceThreshold": 75603,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "A6_Refrigerator_Kit",
+      "MaxPriceThreshold": 128663,
+      "MinPriceThreshold": 109364,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "A6_ArmorRack_Kit",
+      "MaxPriceThreshold": 59445,
+      "MinPriceThreshold": 50528,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "A6_SingleGunRack_Kit",
+      "MaxPriceThreshold": 669420,
+      "MinPriceThreshold": 569007,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "A6_SingleGunRack_Tan_Kit",
+        "A6_SingleGunRack_Black_Kit"
+      ]
+    },
+    {
+      "ClassName": "A6_MilitaryStorageCrate",
+      "MaxPriceThreshold": 268469,
+      "MinPriceThreshold": 228199,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "A6_DoubleGunRack_Kit",
+      "MaxPriceThreshold": 875369,
+      "MinPriceThreshold": 744064,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "A6_DoubleGunRack_Tan_Kit",
+        "A6_DoubleGunRack_Black_Kit"
+      ]
+    },
+    {
+      "ClassName": "A6_MilitaryLocker_Green_Kit",
+      "MaxPriceThreshold": 1244208,
+      "MinPriceThreshold": 1057577,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "A6_MilitaryLocker_Tan_Kit",
+        "A6_MilitaryLocker_Black_Kit"
+      ]
+    },
+    {
+      "ClassName": "A6_Rifle_Safe_Kit",
+      "MaxPriceThreshold": 1756969,
+      "MinPriceThreshold": 1493424,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "A6_Rifle_Safe_Green_Kit",
+        "A6_Rifle_Safe_Black_Kit"
+      ]
+    },
+    {
+      "ClassName": "A6_Safe_Big_Kit",
+      "MaxPriceThreshold": 2548776,
+      "MinPriceThreshold": 2166460,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "A6_Vault_Kit",
+      "MaxPriceThreshold": 8758637,
+      "MinPriceThreshold": 7444841,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "smallprotectorcase",
+      "MaxPriceThreshold": 5670,
+      "MinPriceThreshold": 4820,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ammobox",
+      "MaxPriceThreshold": 57420,
+      "MinPriceThreshold": 48807,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "barrelholes_blue",
+      "MaxPriceThreshold": 39420,
+      "MinPriceThreshold": 33507,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "barrelholes_green",
+        "barrelholes_red",
+        "barrelholes_yellow"
+      ]
+    },
+    {
+      "ClassName": "barrel_blue",
+      "MaxPriceThreshold": 37500,
+      "MinPriceThreshold": 31875,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "barrel_green",
+        "barrel_red",
+        "barrel_yellow"
+      ]
+    },
+    {
+      "ClassName": "TrashBin",
+      "MaxPriceThreshold": 59040,
+      "MinPriceThreshold": 50184,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "seachest",
+      "MaxPriceThreshold": 29040,
+      "MinPriceThreshold": 24684,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "woodencrate",
+      "MaxPriceThreshold": 24000,
+      "MinPriceThreshold": 20400,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

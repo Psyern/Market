@@ -1,0 +1,120 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Snafu_Pistols",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [ 
+    {
+      "ClassName": "SN_Glock19",
+      "MaxPriceThreshold": 23400,
+      "MinPriceThreshold": 19890,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 24,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SN_M9",
+      "MaxPriceThreshold": 50700,
+      "MinPriceThreshold": 43095,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 24,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SN_USP",
+      "MaxPriceThreshold": 91000,
+      "MinPriceThreshold": 77350,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 24,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFUChiappaRhino",
+      "MaxPriceThreshold": 87750,
+      "MinPriceThreshold": 74588,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 24,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFUAPS",
+      "MaxPriceThreshold": 32500,
+      "MinPriceThreshold": 27625,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 24,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SN_Mp443",
+      "MaxPriceThreshold": 46800,
+      "MinPriceThreshold": 39780,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 24,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFU_Fort12_GUN",
+      "MaxPriceThreshold": 65000,
+      "MinPriceThreshold": 55250,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 24,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFUSWM629",
+      "MaxPriceThreshold": 117000,
+      "MinPriceThreshold": 99450,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 24,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFUMagnum500",
+      "MaxPriceThreshold": 117000,
+      "MinPriceThreshold": 99450,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 24,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFU_PL14HQP",
+      "MaxPriceThreshold": 32500,
+      "MinPriceThreshold": 27625,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 24,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

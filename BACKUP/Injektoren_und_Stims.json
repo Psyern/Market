@@ -1,0 +1,197 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Stims",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "morphine",
+      "MaxPriceThreshold": 74650,
+      "MinPriceThreshold": 63452,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Epinephrine",
+      "MaxPriceThreshold": 130000,
+      "MinPriceThreshold": 110500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "anticheminjector",
+      "MaxPriceThreshold": 40000,
+      "MinPriceThreshold": 34000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TerjeInjectorZivirol",
+      "MaxPriceThreshold": 100000,
+      "MinPriceThreshold": 85000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 55,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TerjeInjectorAmoxiclav",
+      "MaxPriceThreshold": 25000,
+      "MinPriceThreshold": 21250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 55,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TerjeInjectorNeirox",
+      "MaxPriceThreshold": 126277,
+      "MinPriceThreshold": 107335,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 55,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TerjeInjectorErythropoietin",
+      "MaxPriceThreshold": 130324,
+      "MinPriceThreshold": 110775,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 55,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TerjeInjectorNovichek",
+      "MaxPriceThreshold": 112316,
+      "MinPriceThreshold": 95469,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 55,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TerjeInjectorPropital",
+      "MaxPriceThreshold": 169160,
+      "MinPriceThreshold": 143786,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 55,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TerjeInjectorAmfitalicyne",
+      "MaxPriceThreshold": 60000,
+      "MinPriceThreshold": 51000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 55,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TerjeInjectorReanimatal",
+      "MaxPriceThreshold": 190000,
+      "MinPriceThreshold": 161500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 55,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TerjeInjectorStomaproxidal",
+      "MaxPriceThreshold": 9000,
+      "MinPriceThreshold": 7650,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 55,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TerjeInjectorRabinucoline",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 8500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 55,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TerjeInjectorPromidol",
+      "MaxPriceThreshold": 25000,
+      "MinPriceThreshold": 21250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 55,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TerjeInjectorErytromixelin",
+      "MaxPriceThreshold": 88000,
+      "MinPriceThreshold": 74800,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 55,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TerjeInjectorTopoizomeraza",
+      "MaxPriceThreshold": 25000,
+      "MinPriceThreshold": 21250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 55,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TerjeAntiradInjector",
+      "MaxPriceThreshold": 100000,
+      "MinPriceThreshold": 85000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 55,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

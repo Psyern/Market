@@ -1,0 +1,128 @@
+{
+  "m_Version": 12,
+  "DisplayName": "FOG_Headgear",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "FOG_Dripclava_RG",
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 800,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_Dripclava_CB",
+        "FOG_Dripclava_Tan",
+        "FOG_Dripclava_Tan449"
+      ]
+    },
+    {
+      "ClassName": "FOG_HalfMask_RG",
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 800,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_HalfMask_CB"
+      ]
+    },
+    {
+      "ClassName": "FOG_Helmet_FAST_SF_TAN",
+      "MaxPriceThreshold": 20000,
+      "MinPriceThreshold": 8000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_Helmet_FAST_SF_TAN_BLK",
+        "FOG_Helmet_FAST_SF_RG",
+        "FOG_Helmet_FAST_SF_CB",
+        "FOG_Helmet_FAST_SF_RG_BLK",
+        "FOG_Helmet_FAST_SF_CB_BLK"
+      ]
+    },
+    {
+      "ClassName": "FOG_Helmet_FAST_FTHS_Tan",
+      "MaxPriceThreshold": 20000,
+      "MinPriceThreshold": 8000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "FOG_Helmet_HGU56_Tan",
+      "MaxPriceThreshold": 18000,
+      "MinPriceThreshold": 7200,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_Helmet_HGU56_T499",
+        "FOG_Helmet_HGU56_OD"
+      ]
+    },
+    {
+      "ClassName": "FOG_HGU_MFS_Tan",
+      "MaxPriceThreshold": 18000,
+      "MinPriceThreshold": 7200,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_HGU_MFS_Tan449",
+        "FOG_HGU_MFS_OD",
+        "FOG_HGU_MFS_Vader",
+        "FOG_HGU_MFS_Smiley",
+        "FOG_HGU_MFS_SL"
+      ]
+    },
+    {
+      "ClassName": "FOG_Helmet_MTEK_Flux_CB",
+      "MaxPriceThreshold": 22000,
+      "MinPriceThreshold": 8800,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_Helmet_MTEK_Flux_CB_BLK",
+        "FOG_Helmet_MTEK_Flux_RG_BLK",
+        "FOG_Helmet_MTEK_Flux_RG",
+        "FOG_Helmet_MTEK_Flux_AOR1",
+        "FOG_Helmet_MTEK_Flux_DNC",
+        "FOG_Helmet_MTEK_Flux_DTGR"
+      ]
+    },
+    {
+      "ClassName": "FOG_Fleececap_CB",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 1200,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_Fleececap_RG"
+      ]
+    }
+  ]
+}

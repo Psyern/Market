@@ -1,0 +1,139 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Decontamination",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+        {
+      "ClassName": "TerjeRadTent",
+      "MaxPriceThreshold": 9250,
+      "MinPriceThreshold": 7862,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TerjeShower",
+      "MaxPriceThreshold": 25420,
+      "MinPriceThreshold": 21607,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TerjePump",
+      "MaxPriceThreshold": 540332,
+      "MinPriceThreshold": 459282,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TerjeCaseRadMilitary",
+      "MaxPriceThreshold": 1583069,
+      "MinPriceThreshold": 1345609,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TerjeCaseRadSpecial",
+      "MaxPriceThreshold": 750420,
+      "MinPriceThreshold": 637857,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TerjeSoap",
+      "MaxPriceThreshold": 7500,
+      "MinPriceThreshold": 6375,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TerjeCanisterChemical",
+      "MaxPriceThreshold": 125587,
+      "MinPriceThreshold": 106749,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TerjeDosimetrPripyat",
+      "MaxPriceThreshold": 125783,
+      "MinPriceThreshold": 106916,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "battery9v"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "TerjeDosimetrMkc01A",
+      "MaxPriceThreshold": 350874,
+      "MinPriceThreshold": 298243,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "battery9v"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "TerjeDosimetrCdv700",
+      "MaxPriceThreshold": 89575,
+      "MinPriceThreshold": 76139,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "battery9v"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "TerjeDosimetrDpg05",
+      "MaxPriceThreshold": 12696,
+      "MinPriceThreshold": 10792,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "battery9v"
+      ],
+      "Variants": []
+    }
+  ]
+}

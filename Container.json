@@ -1,0 +1,230 @@
+{
+  "m_Version": 12,
+  "DisplayName": "BASE BUILDING KITS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "A6_MedicalCabinet_Kit",
+      "MaxPriceThreshold": 264,
+      "MinPriceThreshold": 242,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "A6_MedicalCabinet_Black_Kit"
+      ]
+    },
+    {
+      "ClassName": "A6_GreenHouse_Kit",
+      "MaxPriceThreshold": 527,
+      "MinPriceThreshold": 482,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "A6_Refrigerator_Kit",
+      "MaxPriceThreshold": 646,
+      "MinPriceThreshold": 591,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "A6_ArmorRack_Kit",
+      "MaxPriceThreshold": 422,
+      "MinPriceThreshold": 386,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "A6_SingleGunRack_Kit",
+      "MaxPriceThreshold": 1600,
+      "MinPriceThreshold": 1463,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "A6_SingleGunRack_Tan_Kit",
+        "A6_SingleGunRack_Black_Kit"
+      ]
+    },
+    {
+      "ClassName": "A6_MilitaryStorageCrate",
+      "MaxPriceThreshold": 968,
+      "MinPriceThreshold": 885,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "A6_DoubleGunRack_Kit",
+      "MaxPriceThreshold": 1854,
+      "MinPriceThreshold": 1696,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "A6_DoubleGunRack_Tan_Kit",
+        "A6_DoubleGunRack_Black_Kit"
+      ]
+    },
+    {
+      "ClassName": "A6_MilitaryLocker_Green_Kit",
+      "MaxPriceThreshold": 2250,
+      "MinPriceThreshold": 2058,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "A6_MilitaryLocker_Tan_Kit",
+        "A6_MilitaryLocker_Black_Kit"
+      ]
+    },
+    {
+      "ClassName": "A6_Rifle_Safe_Kit",
+      "MaxPriceThreshold": 2720,
+      "MinPriceThreshold": 2488,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "A6_Rifle_Safe_Green_Kit",
+        "A6_Rifle_Safe_Black_Kit"
+      ]
+    },
+    {
+      "ClassName": "A6_Safe_Big_Kit",
+      "MaxPriceThreshold": 3338,
+      "MinPriceThreshold": 3053,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "A6_Vault_Kit",
+      "MaxPriceThreshold": 6582,
+      "MinPriceThreshold": 6019,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "smallprotectorcase",
+      "MaxPriceThreshold": 116,
+      "MinPriceThreshold": 106,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ammobox",
+      "MaxPriceThreshold": 414,
+      "MinPriceThreshold": 379,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "barrelholes_blue",
+      "MaxPriceThreshold": 337,
+      "MinPriceThreshold": 308,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "barrelholes_green",
+        "barrelholes_red",
+        "barrelholes_yellow"
+      ]
+    },
+    {
+      "ClassName": "barrel_blue",
+      "MaxPriceThreshold": 328,
+      "MinPriceThreshold": 300,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "barrel_green",
+        "barrel_red",
+        "barrel_yellow"
+      ]
+    },
+    {
+      "ClassName": "TrashBin",
+      "MaxPriceThreshold": 421,
+      "MinPriceThreshold": 385,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "seachest",
+      "MaxPriceThreshold": 285,
+      "MinPriceThreshold": 261,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "woodencrate",
+      "MaxPriceThreshold": 257,
+      "MinPriceThreshold": 235,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

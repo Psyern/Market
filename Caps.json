@@ -1,0 +1,235 @@
+{
+  "m_Version": 12,
+  "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_CAPS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [ 
+    {
+      "ClassName": "baseballcap_cmmg_pink",
+      "MaxPriceThreshold": 28,
+      "MinPriceThreshold": 25,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "baseballcap_pink",
+        "baseballcap_blue",
+        "baseballcap_beige",
+        "baseballcap_red",
+        "baseballcap_cmmg_black",
+        "baseballcap_black",
+        "baseballcap_olive",
+        "baseballcap_camo"
+      ]
+    },
+    {
+      "ClassName": "baseballcap_pink",
+      "MaxPriceThreshold": 28,
+      "MinPriceThreshold": 25,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 13,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "baseballcap_blue",
+      "MaxPriceThreshold": 28,
+      "MinPriceThreshold": 26,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 12,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "baseballcap_beige",
+      "MaxPriceThreshold": 28,
+      "MinPriceThreshold": 26,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "baseballcap_cmmg_black",
+      "MaxPriceThreshold": 28,
+      "MinPriceThreshold": 26,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "baseballcap_black",
+      "MaxPriceThreshold": 28,
+      "MinPriceThreshold": 26,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 3,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "baseballcap_camo",
+      "MaxPriceThreshold": 45,
+      "MinPriceThreshold": 41,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "prisonercap",
+      "MaxPriceThreshold": 33,
+      "MinPriceThreshold": 31,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 7,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "pilotkacap",
+      "MaxPriceThreshold": 151,
+      "MinPriceThreshold": 138,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 3,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "policecap",
+      "MaxPriceThreshold": 48,
+      "MinPriceThreshold": 44,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "flatcap_blue",
+      "MaxPriceThreshold": 29,
+      "MinPriceThreshold": 26,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 2,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "flatcap_red",
+        "flatcap_brown",
+        "flatcap_grey",
+        "flatcap_browncheck",
+        "flatcap_greycheck",
+        "flatcap_black",
+        "flatcap_blackcheck"
+      ]
+    },
+    {
+      "ClassName": "zmijovkacap_blue",
+      "MaxPriceThreshold": 73,
+      "MinPriceThreshold": 66,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 6,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "zmijovkacap_brown",
+        "zmijovkacap_red",
+        "zmijovkacap_black",
+        "zmijovkacap_green"
+      ]
+    },
+    {
+      "ClassName": "zmijovkacap_black",
+      "MaxPriceThreshold": 101,
+      "MinPriceThreshold": 92,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "zmijovkacap_green",
+      "MaxPriceThreshold": 115,
+      "MinPriceThreshold": 105,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 13,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "radarcap_blue",
+      "MaxPriceThreshold": 34,
+      "MinPriceThreshold": 32,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 3,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "radarcap_brown",
+        "radarcap_red",
+        "radarcap_black",
+        "radarcap_green"
+      ]
+    },
+    {
+      "ClassName": "radarcap_brown",
+      "MaxPriceThreshold": 29,
+      "MinPriceThreshold": 26,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 4,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "radarcap_red",
+      "MaxPriceThreshold": 29,
+      "MinPriceThreshold": 26,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 2,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "radarcap_green",
+      "MaxPriceThreshold": 29,
+      "MinPriceThreshold": 26,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 9,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

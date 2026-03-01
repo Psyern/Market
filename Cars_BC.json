@@ -1,0 +1,108 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Cars_BC (Bitcoin)",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "Hatchback_02",
+      "MaxPriceThreshold": 20,
+      "MinPriceThreshold": 10,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "hatchback_02_wheel",
+        "hatchback_02_wheel",
+        "hatchback_02_wheel",
+        "hatchback_02_wheel",
+        "hatchback_02_wheel",
+        "hatchback_02_door_1_1",
+        "hatchback_02_door_2_1",
+        "hatchback_02_door_1_2",
+        "hatchback_02_door_2_2",
+        "hatchback_02_hood",
+        "hatchback_02_trunk",
+        "carbattery",
+        "carradiator",
+        "sparkplug",
+        "headlighth7",
+        "headlighth7"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "Sedan_02",
+      "MaxPriceThreshold": 20,
+      "MinPriceThreshold": 10,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sedan_02_wheel",
+        "sedan_02_wheel",
+        "sedan_02_wheel",
+        "sedan_02_wheel",
+        "sedan_02_wheel",
+        "carbattery",
+        "carradiator",
+        "sparkplug",
+        "sedan_02_hood",
+        "sedan_02_trunk",
+        "sedan_02_door_1_1",
+        "sedan_02_door_2_1",
+        "sedan_02_door_1_2",
+        "sedan_02_door_2_2",
+        "headlighth7",
+        "headlighth7"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "ExpansionBus",
+      "MaxPriceThreshold": 30,
+      "MinPriceThreshold": 26,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 15,
+      "MinStockThreshold": 10,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "expansionbuswheel",
+        "expansionbuswheel",
+        "expansionbuswheeldouble",
+        "expansionbuswheeldouble",
+        "headlighth7",
+        "headlighth7",
+        "truckbattery",
+        "carradiator",
+        "glowplug"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "ExpansionVodnik",
+      "MaxPriceThreshold": 138,
+      "MinPriceThreshold": 117,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 4,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "expansionvodnikwheel",
+        "expansionvodnikwheel",
+        "expansionvodnikwheel",
+        "expansionvodnikwheel",
+        "truckbattery",
+        "carradiator",
+        "sparkplug",
+        "expansionvodnikdoordriver",
+        "expansionvodnikdoorcodriver"
+      ],
+      "Variants": []
+    }
+  ]
+}

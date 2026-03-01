@@ -1,0 +1,59 @@
+{
+  "m_Version": 12,
+  "DisplayName": "ESSENTIALS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [ 
+    {
+      "ClassName": "waterbottle",
+      "MaxPriceThreshold": 105,
+      "MinPriceThreshold": 89,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "crackers",
+      "MaxPriceThreshold": 1165,
+      "MinPriceThreshold": 990,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "bandagedressing",
+      "MaxPriceThreshold": 1425,
+      "MinPriceThreshold": 1211,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "PokemonCard_SealedBox1",
+      "MaxPriceThreshold": 500000000,
+      "MinPriceThreshold": 425000000,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "PokemonCard_SealedBox2",
+        "PokemonCard_SealedBox3",
+        "PokemonCard_SealedBox4",
+        "PokemonCard_SealedBox5"
+      ]
+    }
+  ]
+}

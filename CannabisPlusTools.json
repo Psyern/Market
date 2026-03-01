@@ -1,0 +1,98 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Illicit Droogs Production",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 40.0,
+    "Items": [
+        {
+            "ClassName": "CP_Workbench_Kit",
+            "MaxPriceThreshold": 703,
+            "MinPriceThreshold": 405,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_DryPost_Kit",
+            "MaxPriceThreshold": 384,
+            "MinPriceThreshold": 232,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_PlasticWrapper",
+            "MaxPriceThreshold": 384,
+            "MinPriceThreshold": 232,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "CP_PlasticRoll",
+            "MaxPriceThreshold": 108,
+            "MinPriceThreshold": 65,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "CP_EmptyBag",
+            "MaxPriceThreshold": 31,
+            "MinPriceThreshold": 18,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "CP_Bagger",
+            "MaxPriceThreshold": 384,
+            "MinPriceThreshold": 232,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "CP_Compost",
+            "MaxPriceThreshold": 198,
+            "MinPriceThreshold": 130,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "CP_CompostBin",
+            "MaxPriceThreshold": 198,
+            "MinPriceThreshold": 130,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }        
+    ]
+}

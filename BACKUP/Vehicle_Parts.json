@@ -1,0 +1,761 @@
+{
+  "m_Version": 12,
+  "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_VEHICLE_PARTS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "hatchbackhood",
+      "MaxPriceThreshold": 870,
+      "MinPriceThreshold": 740,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "hatchbackhood_blue",
+        "hatchbackhood_bluerust",
+        "hatchbackhood_greenrust",
+        "hatchbackhood_white",
+        "hatchbackhood_whiterust"
+      ]
+    },
+    {
+      "ClassName": "hatchbacktrunk",
+      "MaxPriceThreshold": 870,
+      "MinPriceThreshold": 740,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "hatchbacktrunk_blue",
+        "hatchbacktrunk_bluerust",
+        "hatchbacktrunk_greenrust",
+        "hatchbacktrunk_white",
+        "hatchbacktrunk_whiterust"
+      ]
+    },
+    {
+      "ClassName": "hatchbackdoors_driver",
+      "MaxPriceThreshold": 870,
+      "MinPriceThreshold": 740,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "hatchbackdoors_driver_blue",
+        "hatchbackdoors_driver_bluerust",
+        "hatchbackdoors_driver_greenrust",
+        "hatchbackdoors_driver_white",
+        "hatchbackdoors_driver_whiterust"
+      ]
+    },
+    {
+      "ClassName": "hatchbackdoors_codriver",
+      "MaxPriceThreshold": 870,
+      "MinPriceThreshold": 740,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "hatchbackdoors_codriver_blue",
+        "hatchbackdoors_codriver_bluerust",
+        "hatchbackdoors_codriver_greenrust",
+        "hatchbackdoors_codriver_white",
+        "hatchbackdoors_codriver_whiterust"
+      ]
+    },
+    {
+      "ClassName": "hatchbackwheel",
+      "MaxPriceThreshold": 800,
+      "MinPriceThreshold": 680,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "civsedanhood",
+      "MaxPriceThreshold": 870,
+      "MinPriceThreshold": 740,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "civsedanhood_wine",
+        "civsedanhood_winerust",
+        "civsedanhood_whiterust",
+        "civsedanhood_black",
+        "civsedanhood_blackrust"
+      ]
+    },
+    {
+      "ClassName": "civsedantrunk",
+      "MaxPriceThreshold": 870,
+      "MinPriceThreshold": 740,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "civsedantrunk_wine",
+        "civsedantrunk_winerust",
+        "civsedantrunk_whiterust",
+        "civsedantrunk_black",
+        "civsedantrunk_blackrust"
+      ]
+    },
+    {
+      "ClassName": "civsedandoors_driver",
+      "MaxPriceThreshold": 870,
+      "MinPriceThreshold": 740,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "civsedandoors_driver_wine",
+        "civsedandoors_driver_winerust",
+        "civsedandoors_driver_whiterust",
+        "civsedandoors_driver_black",
+        "civsedandoors_driver_blackrust"
+      ]
+    },
+    {
+      "ClassName": "civsedandoors_codriver",
+      "MaxPriceThreshold": 870,
+      "MinPriceThreshold": 740,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "civsedandoors_codriver_wine",
+        "civsedandoors_codriver_winerust",
+        "civsedandoors_codriver_whiterust",
+        "civsedandoors_codriver_black",
+        "civsedandoors_codriver_blackrust"
+      ]
+    },
+    {
+      "ClassName": "civsedandoors_backleft",
+      "MaxPriceThreshold": 870,
+      "MinPriceThreshold": 740,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "civsedandoors_backleft_wine",
+        "civsedandoors_backleft_winerust",
+        "civsedandoors_backleft_whiterust",
+        "civsedandoors_backleft_black",
+        "civsedandoors_backleft_blackrust"
+      ]
+    },
+    {
+      "ClassName": "civsedandoors_backright",
+      "MaxPriceThreshold": 870,
+      "MinPriceThreshold": 740,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "civsedandoors_backright_wine",
+        "civsedandoors_backright_winerust",
+        "civsedandoors_backright_whiterust",
+        "civsedandoors_backright_black",
+        "civsedandoors_backright_blackrust"
+      ]
+    },
+    {
+      "ClassName": "civsedanwheel",
+      "MaxPriceThreshold": 800,
+      "MinPriceThreshold": 680,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "truck_01_hood",
+      "MaxPriceThreshold": 645,
+      "MinPriceThreshold": 548,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "truck_01_hood_blue",
+        "truck_01_hood_orange",
+        "truck_01_hood_orangerust",
+        "truck_01_hood_bluerust",
+        "truck_01_hood_greenrust"
+      ]
+    },
+    {
+      "ClassName": "truck_01_door_1_1",
+      "MaxPriceThreshold": 645,
+      "MinPriceThreshold": 548,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "truck_01_door_1_1_blue",
+        "truck_01_door_1_1_orange",
+        "truck_01_door_1_1_orangerust",
+        "truck_01_door_1_1_bluerust",
+        "truck_01_door_1_1_greenrust"
+      ]
+    },
+    {
+      "ClassName": "truck_01_door_2_1",
+      "MaxPriceThreshold": 645,
+      "MinPriceThreshold": 548,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "truck_01_door_2_1_blue",
+        "truck_01_door_2_1_orange",
+        "truck_01_door_2_1_orangerust",
+        "truck_01_door_2_1_bluerust",
+        "truck_01_door_2_1_greenrust"
+      ]
+    },
+    {
+      "ClassName": "truck_01_wheel",
+      "MaxPriceThreshold": 590,
+      "MinPriceThreshold": 502,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "truck_01_wheeldouble",
+      "MaxPriceThreshold": 220,
+      "MinPriceThreshold": 187,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "offroad_02_hood",
+      "MaxPriceThreshold": 480,
+      "MinPriceThreshold": 408,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "offroad_02_trunk",
+      "MaxPriceThreshold": 3600,
+      "MinPriceThreshold": 3060,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "offroad_02_trunk_rust"
+      ]
+    },
+    {
+      "ClassName": "offroad_02_door_1_1",
+      "MaxPriceThreshold": 3600,
+      "MinPriceThreshold": 3060,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "offroad_02_door_1_1_rust"
+      ]
+    },
+    {
+      "ClassName": "offroad_02_door_1_2",
+      "MaxPriceThreshold": 3600,
+      "MinPriceThreshold": 3060,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "offroad_02_door_1_2_rust"
+      ]
+    },
+    {
+      "ClassName": "offroad_02_door_2_1",
+      "MaxPriceThreshold": 3600,
+      "MinPriceThreshold": 3060,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "offroad_02_door_2_1_rust"
+      ]
+    },
+    {
+      "ClassName": "offroad_02_door_2_2",
+      "MaxPriceThreshold": 3600,
+      "MinPriceThreshold": 3060,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "offroad_02_door_2_2_rust"
+      ]
+    },
+    {
+      "ClassName": "offroad_02_wheel",
+      "MaxPriceThreshold": 11410,
+      "MinPriceThreshold": 9698,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "expansiontractordoorsdriver",
+      "MaxPriceThreshold": 800,
+      "MinPriceThreshold": 680,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "expansiontractordoorscodriver",
+      "MaxPriceThreshold": 800,
+      "MinPriceThreshold": 680,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "expansiontractorbackwheel",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 850,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "expansiontractorfrontwheel",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 850,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "expansionuazdoorhood",
+      "MaxPriceThreshold": 800,
+      "MinPriceThreshold": 680,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "expansionuazdoordriver",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 850,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "expansionuazdoorcodriver",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 850,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "expansionuazdoorcargo1",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 850,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "expansionuazdoorcargo2",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 850,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "expansionuazwheel",
+      "MaxPriceThreshold": 1200,
+      "MinPriceThreshold": 1020,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "expansionmerlinbackwheel",
+      "MaxPriceThreshold": 1200,
+      "MinPriceThreshold": 1020,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "expansionmerlinfrontwheel",
+      "MaxPriceThreshold": 1200,
+      "MinPriceThreshold": 1020,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "expansionuh1hdoor_1_1",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 850,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "expansionuh1hdoor_1_2",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 850,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "expansionuh1hdoor_2_1",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 850,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "expansionuh1hdoor_2_2",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 850,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "expansion_mh6_door_1_1",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 850,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "expansion_mh6_door_1_1_black"
+      ]
+    },
+    {
+      "ClassName": "expansion_mh6_door_1_2",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 850,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "expansion_mh6_door_1_2_black"
+      ]
+    },
+    {
+      "ClassName": "expansion_mh6_door_2_1",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 850,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "expansion_mh6_door_2_1_black"
+      ]
+    },
+    {
+      "ClassName": "expansion_mh6_door_2_2",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 850,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "expansion_mh6_door_2_2_black"
+      ]
+    },
+    {
+      "ClassName": "Conqueror_Doors_Driver",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 850,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Conqueror_Doors_Driver_blue",
+        "Conqueror_Doors_Driver_green",
+        "Conqueror_Doors_Driver_yellow",
+        "Conqueror_Doors_Driver_kamo1",
+        "Conqueror_Doors_Driver_kamo2",
+        "Conqueror_Doors_Driver_gray"
+      ]
+    },
+    {
+      "ClassName": "Conqueror_Doors_coDriver",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 850,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Conqueror_Doors_coDriver_blue",
+        "Conqueror_Doors_coDriver_green",
+        "Conqueror_Doors_coDriver_yellow",
+        "Conqueror_Doors_coDriver_kamo1",
+        "Conqueror_Doors_coDriver_kamo2",
+        "Conqueror_Doors_coDriver_gray"
+      ]
+    },
+    {
+      "ClassName": "Conqueror_Doors_hood",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 850,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Conqueror_Doors_hood_blue",
+        "Conqueror_Doors_hood_green",
+        "Conqueror_Doors_hood_yellow",
+        "Conqueror_Doors_hood_kamo1",
+        "Conqueror_Doors_hood_kamo2",
+        "Conqueror_Doors_hood_gray"
+      ]
+    },
+    {
+      "ClassName": "Conqueror_Doors_trunk",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 850,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Conqueror_Doors_trunk_blue",
+        "Conqueror_Doors_trunk_green",
+        "Conqueror_Doors_trunk_yellow",
+        "Conqueror_Doors_trunk_kamo1",
+        "Conqueror_Doors_trunk_kamo2",
+        "Conqueror_Doors_trunk_gray"
+      ]
+    },
+    {
+      "ClassName": "Conqueror_wheel",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 850,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "offroadrangerover_doors_driver",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 850,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "offroadrangerover_doors_codriver",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 850,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "offroadrangerover_doors_trunk",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 850,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "offroadrangerover_doors_cargo1",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 850,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "offroadrangerover_doors_cargo2",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 850,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "offroadrangerover_doors_hood",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 850,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "offroadrangerover_bamper",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 850,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "offroadrangerover_wheel",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 850,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

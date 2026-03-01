@@ -1,0 +1,127 @@
+{
+  "m_Version": 12,
+  "DisplayName": "#Cars_F_BC (Bitcoin)",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "Buggy",
+      "MaxPriceThreshold": 75,
+      "MinPriceThreshold": 63,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "Buggy_Wheel",
+        "Buggy_Wheel",
+        "Buggy_Wheel",
+        "Buggy_Wheel",
+        "Buggy_Wheel",
+        "Buggy_Doors_Driver",
+        "Buggy_Doors_coDriver",
+        "carbattery",
+        "sparkplug",
+        "headlighth7",
+        "headlighth7"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "Buggy_blue",
+      "MaxPriceThreshold": 75,
+      "MinPriceThreshold": 63,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "Buggy_Wheel",
+        "Buggy_Wheel",
+        "Buggy_Wheel",
+        "Buggy_Wheel",
+        "Buggy_Wheel",
+        "Buggy_Doors_Driver_blue",
+        "Buggy_Doors_coDriver_blue",
+        "carbattery",
+        "sparkplug",
+        "headlighth7",
+        "headlighth7"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "Buggy_red",
+      "MaxPriceThreshold": 75,
+      "MinPriceThreshold": 63,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "Buggy_Wheel",
+        "Buggy_Wheel",
+        "Buggy_Wheel",
+        "Buggy_Wheel",
+        "Buggy_Wheel",
+        "Buggy_Doors_Driver_red",
+        "Buggy_Doors_coDriver_red",
+        "carbattery",
+        "sparkplug",
+        "headlighth7",
+        "headlighth7"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "Buggy_yellow",
+      "MaxPriceThreshold": 75,
+      "MinPriceThreshold": 63,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "Buggy_Wheel",
+        "Buggy_Wheel",
+        "Buggy_Wheel",
+        "Buggy_Wheel",
+        "Buggy_Wheel",
+        "Buggy_Doors_Driver_yellow",
+        "Buggy_Doors_coDriver_yellow",
+        "carbattery",
+        "sparkplug",
+        "headlighth7",
+        "headlighth7"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "Interceptor",
+      "MaxPriceThreshold": 75,
+      "MinPriceThreshold": 63,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 3,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "Interceptor_Wheel",
+        "Interceptor_Wheel",
+        "Interceptor_Wheel",
+        "Interceptor_Wheel",
+        "Interceptor_Wheel",
+        "carbattery",
+        "carradiator",
+        "sparkplug",
+        "Interceptor_Doors_Driver",
+        "Interceptor_Doors_coDriver",
+        "Interceptor_Doors_hood",
+        "headlighth7",
+        "headlighth7"
+      ],
+      "Variants": []
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "m_Version": 12,
+  "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_MASKS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [ 
+    {
+      "ClassName": "surgicalmask",
+      "MaxPriceThreshold": 46,
+      "MinPriceThreshold": 42,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "nioshfacemask",
+      "MaxPriceThreshold": 43,
+      "MinPriceThreshold": 39,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 13,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "hockeymask",
+      "MaxPriceThreshold": 25,
+      "MinPriceThreshold": 23,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 12,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "shemag_brown",
+      "MaxPriceThreshold": 14,
+      "MinPriceThreshold": 12,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "shemag_green",
+        "shemag_red",
+        "shemag_white"
+      ]
+    },
+    {
+      "ClassName": "balaclavamask_beige",
+      "MaxPriceThreshold": 67,
+      "MinPriceThreshold": 61,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "balaclavamask_blue",
+        "balaclavamask_pink",
+        "balaclavamask_white",
+        "balaclavamask_blackskull",
+        "balaclavamask_black",
+        "balaclavamask_green",
+        "balaclavamask_bdu",
+        "balaclavamask_chain",
+        "balaclavamask_pig"
+      ]
+    },
+    {
+      "ClassName": "balaclavamask_blackskull",
+      "MaxPriceThreshold": 174,
+      "MinPriceThreshold": 159,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 3,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "balaclavamask_black",
+      "MaxPriceThreshold": 89,
+      "MinPriceThreshold": 82,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "balaclavamask_green",
+      "MaxPriceThreshold": 80,
+      "MinPriceThreshold": 73,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 7,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "balaclavamask_bdu",
+      "MaxPriceThreshold": 173,
+      "MinPriceThreshold": 158,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 3,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "balaclava3holes_beige",
+      "MaxPriceThreshold": 59,
+      "MinPriceThreshold": 54,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "balaclava3holes_blue",
+        "balaclava3holes_black",
+        "balaclava3holes_green",
+        "balaclava3holes_white"
+      ]
+    },
+    {
+      "ClassName": "balaclava3holes_black",
+      "MaxPriceThreshold": 83,
+      "MinPriceThreshold": 76,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 2,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "balaclava3holes_green",
+      "MaxPriceThreshold": 72,
+      "MinPriceThreshold": 66,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 6,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "balaclava3holes_white",
+      "MaxPriceThreshold": 47,
+      "MinPriceThreshold": 43,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "weldingmask",
+      "MaxPriceThreshold": 40,
+      "MinPriceThreshold": 37,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 13,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "gasmask",
+      "MaxPriceThreshold": 110,
+      "MinPriceThreshold": 100,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 3,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "gp5gasmask",
+      "MaxPriceThreshold": 174,
+      "MinPriceThreshold": 159,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 4,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "gasmask_filter"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "airbornemask",
+      "MaxPriceThreshold": 39,
+      "MinPriceThreshold": 35,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 2,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "gasmask_filter"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "mimemask_female",
+      "MaxPriceThreshold": 33,
+      "MinPriceThreshold": 31,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 9,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mimemask_male"
+      ]
+    }
+  ]
+}

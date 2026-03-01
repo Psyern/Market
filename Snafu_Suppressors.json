@@ -1,0 +1,351 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Snafu_Suppressors",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [ 
+    {
+      "ClassName": "GCGN_M1Garand_Supp",
+      "MaxPriceThreshold": 703,
+      "MinPriceThreshold": 643,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFUMDAR_Supp_Tan",
+      "MaxPriceThreshold": 531,
+      "MinPriceThreshold": 485,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "SNAFUMDAR_Supp_Black"
+      ]
+    },
+    {
+      "ClassName": "SR3_Vikhr_Supp",
+      "MaxPriceThreshold": 703,
+      "MinPriceThreshold": 643,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 13,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFU_Normalized_Suppressor_Green",
+      "MaxPriceThreshold": 1029,
+      "MinPriceThreshold": 941,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 12,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFU_Normalized_Suppressor_Black",
+      "MaxPriceThreshold": 1029,
+      "MinPriceThreshold": 941,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFU_Standardized_Suppressor_Black",
+      "MaxPriceThreshold": 1029,
+      "MinPriceThreshold": 941,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFU_Standardized_Suppressor_Green",
+      "MaxPriceThreshold": 1029,
+      "MinPriceThreshold": 941,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 3,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFU_LNormalized_Suppressor_Black",
+      "MaxPriceThreshold": 1029,
+      "MinPriceThreshold": 941,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFU_LNormalized_Suppressor_Green",
+      "MaxPriceThreshold": 1029,
+      "MinPriceThreshold": 941,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 7,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFU_LStandardized_Suppressor_Black",
+      "MaxPriceThreshold": 1029,
+      "MinPriceThreshold": 941,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFUAR15_SPR_SIL",
+      "MaxPriceThreshold": 1029,
+      "MinPriceThreshold": 941,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 2,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFUAR15_SPR_SQSIL",
+      "MaxPriceThreshold": 1029,
+      "MinPriceThreshold": 941,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 6,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFU_Shotgunchoke_Brown",
+      "MaxPriceThreshold": 274,
+      "MinPriceThreshold": 250,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "SNAFU_Shotgunchoke_Blue",
+        "SNAFU_Shotgunchoke_Black",
+        "SNAFU_Shotgunchoke_Green"
+      ]
+    },
+    {
+      "ClassName": "SNAFU_Shotgunchoke_Purple",
+      "MaxPriceThreshold": 290,
+      "MinPriceThreshold": 265,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFU_Shotgunchoke_Red",
+      "MaxPriceThreshold": 335,
+      "MinPriceThreshold": 306,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFU_Shotgunchoke_Tur",
+      "MaxPriceThreshold": 388,
+      "MinPriceThreshold": 355,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFU_Shotgunchoke_Yellow",
+      "MaxPriceThreshold": 425,
+      "MinPriceThreshold": 388,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFUKivaari_338_Supp",
+      "MaxPriceThreshold": 1507,
+      "MinPriceThreshold": 1378,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFU_408_Suppressor_T",
+      "MaxPriceThreshold": 1883,
+      "MinPriceThreshold": 1722,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 13,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Snafu_ScarH_SIL_Tan",
+      "MaxPriceThreshold": 1507,
+      "MinPriceThreshold": 1378,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 3,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFU_50bmg_Suppressor_B",
+      "MaxPriceThreshold": 1507,
+      "MinPriceThreshold": 1378,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 3,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "SNAFU_50bmg_Suppressor_W",
+        "SNAFU_50bmg_Suppressor_M",
+        "SNAFU_50bmg_Suppressor_S",
+        "SNAFU_50bmg_Suppressor_U"
+      ]
+    },
+    {
+      "ClassName": "Snafu_ScarH_SIL_Black",
+      "MaxPriceThreshold": 1507,
+      "MinPriceThreshold": 1378,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 4,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFUGevar_Suppressor_Tan",
+      "MaxPriceThreshold": 1507,
+      "MinPriceThreshold": 1378,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 2,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFUGevar_Suppressor_Green",
+      "MaxPriceThreshold": 1507,
+      "MinPriceThreshold": 1378,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 9,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFU_Agram_Suppressor_Black",
+      "MaxPriceThreshold": 1883,
+      "MinPriceThreshold": 1722,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 12,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFU_MPX_Suppressor_Black",
+      "MaxPriceThreshold": 703,
+      "MinPriceThreshold": 643,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 13,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFU_SPMOD",
+      "MaxPriceThreshold": 703,
+      "MinPriceThreshold": 643,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFU_HeramuzzelF",
+      "MaxPriceThreshold": 1029,
+      "MinPriceThreshold": 941,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 12,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFU_MuzzelFF",
+      "MaxPriceThreshold": 1029,
+      "MinPriceThreshold": 941,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFU_AK308Muzzel",
+      "MaxPriceThreshold": 703,
+      "MinPriceThreshold": 643,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 13,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

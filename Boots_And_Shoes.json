@@ -1,0 +1,349 @@
+{
+  "m_Version": 12,
+  "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_BOOTS & #STR_EXPANSION_MARKET_CATEGORY_SHOES",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [ 
+    {
+      "ClassName": "athleticshoes_blue",
+      "MaxPriceThreshold": 27,
+      "MinPriceThreshold": 25,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 14,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "athleticshoes_brown",
+        "athleticshoes_grey",
+        "athleticshoes_black",
+        "athleticshoes_green"
+      ]
+    },
+    {
+      "ClassName": "joggingshoes_black",
+      "MaxPriceThreshold": 25,
+      "MinPriceThreshold": 23,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "joggingshoes_blue",
+        "joggingshoes_red",
+        "joggingshoes_violet",
+        "joggingshoes_white"
+      ]
+    },
+    {
+      "ClassName": "sneakers_green",
+      "MaxPriceThreshold": 26,
+      "MinPriceThreshold": 24,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "sneakers_red",
+        "sneakers_white",
+        "sneakers_black",
+        "sneakers_gray"
+      ]
+    },
+    {
+      "ClassName": "dressshoes_white",
+      "MaxPriceThreshold": 28,
+      "MinPriceThreshold": 26,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 3,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "dressshoes_beige",
+        "dressshoes_black",
+        "dressshoes_brown",
+        "dressshoes_sunburst"
+      ]
+    },
+    {
+      "ClassName": "hikingbootslow_blue",
+      "MaxPriceThreshold": 25,
+      "MinPriceThreshold": 23,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "hikingbootslow_grey",
+        "hikingbootslow_beige",
+        "hikingbootslow_black"
+      ]
+    },
+    {
+      "ClassName": "hikingbootslow_grey",
+      "MaxPriceThreshold": 25,
+      "MinPriceThreshold": 23,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "hikingbootslow_beige",
+      "MaxPriceThreshold": 25,
+      "MinPriceThreshold": 23,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 4,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "hikingbootslow_black",
+      "MaxPriceThreshold": 25,
+      "MinPriceThreshold": 23,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 14,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "workingboots_yellow",
+      "MaxPriceThreshold": 28,
+      "MinPriceThreshold": 26,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 3,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "workingboots_grey",
+        "workingboots_brown",
+        "workingboots_beige",
+        "workingboots_green"
+      ]
+    },
+    {
+      "ClassName": "workingboots_grey",
+      "MaxPriceThreshold": 28,
+      "MinPriceThreshold": 26,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 2,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "workingboots_brown",
+      "MaxPriceThreshold": 28,
+      "MinPriceThreshold": 26,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "workingboots_beige",
+      "MaxPriceThreshold": 28,
+      "MinPriceThreshold": 26,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "workingboots_green",
+      "MaxPriceThreshold": 28,
+      "MinPriceThreshold": 26,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 13,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "hikingboots_brown",
+      "MaxPriceThreshold": 25,
+      "MinPriceThreshold": 23,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 9,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "hikingboots_black"
+      ]
+    },
+    {
+      "ClassName": "hikingboots_black",
+      "MaxPriceThreshold": 25,
+      "MinPriceThreshold": 23,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 13,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "combatboots_beige",
+      "MaxPriceThreshold": 61,
+      "MinPriceThreshold": 56,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 7,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "combatboots_black",
+        "combatboots_brown",
+        "combatboots_green",
+        "combatboots_grey"
+      ]
+    },
+    {
+      "ClassName": "jungleboots_beige",
+      "MaxPriceThreshold": 61,
+      "MinPriceThreshold": 56,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "jungleboots_black",
+        "jungleboots_brown",
+        "jungleboots_green",
+        "jungleboots_olive"
+      ]
+    },
+    {
+      "ClassName": "wellies_black",
+      "MaxPriceThreshold": 29,
+      "MinPriceThreshold": 27,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 13,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "wellies_brown",
+        "wellies_grey",
+        "wellies_green"
+      ]
+    },
+    {
+      "ClassName": "ttskoboots",
+      "MaxPriceThreshold": 60,
+      "MinPriceThreshold": 55,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "militaryboots_redpunk",
+      "MaxPriceThreshold": 29,
+      "MinPriceThreshold": 27,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 4,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "militaryboots_bluerock",
+        "militaryboots_beige",
+        "militaryboots_black",
+        "militaryboots_brown"
+      ]
+    },
+    {
+      "ClassName": "militaryboots_bluerock",
+      "MaxPriceThreshold": 29,
+      "MinPriceThreshold": 27,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 3,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "militaryboots_beige",
+      "MaxPriceThreshold": 61,
+      "MinPriceThreshold": 56,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "militaryboots_black",
+      "MaxPriceThreshold": 61,
+      "MinPriceThreshold": 56,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 12,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "militaryboots_brown",
+      "MaxPriceThreshold": 61,
+      "MinPriceThreshold": 56,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 12,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "nbcbootsgray",
+      "MaxPriceThreshold": 184,
+      "MinPriceThreshold": 169,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 6,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "nbcbootsyellow",
+        "nbcbootswhite"
+      ]
+    },
+    {
+      "ClassName": "medievalboots",
+      "MaxPriceThreshold": 33,
+      "MinPriceThreshold": 31,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 3,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

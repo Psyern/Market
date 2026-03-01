@@ -1,0 +1,311 @@
+{
+  "m_Version": 12,
+  "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_EXPLOSIVES & #STR_EXPANSION_MARKET_CATEGORY_GRENADES",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [ 
+    {
+      "ClassName": "rgd5grenade",
+      "MaxPriceThreshold": 158,
+      "MinPriceThreshold": 145,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 14,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "m67grenade",
+      "MaxPriceThreshold": 175,
+      "MinPriceThreshold": 160,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "flashgrenade",
+      "MaxPriceThreshold": 96,
+      "MinPriceThreshold": 88,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "remotedetonator",
+      "MaxPriceThreshold": 262,
+      "MinPriceThreshold": 240,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 3,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "remotedetonatortrigger",
+      "MaxPriceThreshold": 108,
+      "MinPriceThreshold": 99,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "improvisedexplosive",
+      "MaxPriceThreshold": 120,
+      "MinPriceThreshold": 109,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "plastic_explosive",
+      "MaxPriceThreshold": 384,
+      "MinPriceThreshold": 351,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 4,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "grenade_chemgas",
+      "MaxPriceThreshold": 384,
+      "MinPriceThreshold": 351,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 14,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "m18smokegrenade_red",
+      "MaxPriceThreshold": 45,
+      "MinPriceThreshold": 41,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 3,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "m18smokegrenade_green",
+        "m18smokegrenade_yellow",
+        "m18smokegrenade_purple",
+        "m18smokegrenade_white"
+      ]
+    },
+    {
+      "ClassName": "expansion_m18smokegrenade_teargas",
+      "MaxPriceThreshold": 175,
+      "MinPriceThreshold": 160,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 2,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "M18SmokeGrenade_Red_Contaminated"
+      ]
+    },
+    {
+      "ClassName": "rdg2smokegrenade_black",
+      "MaxPriceThreshold": 45,
+      "MinPriceThreshold": 41,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "rdg2smokegrenade_white"
+      ]
+    },
+    {
+      "ClassName": "expansionsupplysignal",
+      "MaxPriceThreshold": 2921,
+      "MinPriceThreshold": 2671,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 13,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "expansionsatchel",
+      "MaxPriceThreshold": 384,
+      "MinPriceThreshold": 351,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 9,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "landminetrap",
+      "MaxPriceThreshold": 262,
+      "MinPriceThreshold": 240,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 13,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "claymoremine",
+      "MaxPriceThreshold": 384,
+      "MinPriceThreshold": 351,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 7,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Ammo_RPG7_HE",
+      "MaxPriceThreshold": 562,
+      "MinPriceThreshold": 514,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 7,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Ammo_RPG7_AP"
+      ]
+    },
+    {
+      "ClassName": "Ammo_LAW_HE",
+      "MaxPriceThreshold": 562,
+      "MinPriceThreshold": 514,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 7,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Ammo_Expansion_M203_HE",
+      "MaxPriceThreshold": 562,
+      "MinPriceThreshold": 514,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 7,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Ammo_Expansion_M203_Smoke_White",
+      "MaxPriceThreshold": 42,
+      "MinPriceThreshold": 39,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 7,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Ammo_Expansion_M203_Smoke_Red",
+        "Ammo_Expansion_M203_Smoke_Green",
+        "Ammo_Expansion_M203_Smoke_Purple",
+        "Ammo_Expansion_M203_Smoke_Yellow"
+      ]
+    },
+    {
+      "ClassName": "ammo_40mm_explosive",
+      "MaxPriceThreshold": 39,
+      "MinPriceThreshold": 36,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ammo_expansion_m203_smoke_teargas",
+      "MaxPriceThreshold": 42,
+      "MinPriceThreshold": 39,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ammo_expansion_m203_sticky_smoke_white",
+      "MaxPriceThreshold": 34,
+      "MinPriceThreshold": 31,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ammo_expansion_m203_sticky_smoke_red",
+        "ammo_expansion_m203_sticky_smoke_green",
+        "ammo_expansion_m203_sticky_smoke_yellow",
+        "ammo_expansion_m203_sticky_smoke_purple"
+      ]
+    },
+    {
+      "ClassName": "ammo_expansion_m203_sticky_smoke_teargas",
+      "MaxPriceThreshold": 42,
+      "MinPriceThreshold": 39,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ammo_40mm_chemgas",
+      "MaxPriceThreshold": 39,
+      "MinPriceThreshold": 36,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ammo_40mm_smoke_red",
+      "MaxPriceThreshold": 39,
+      "MinPriceThreshold": 36,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ammo_40mm_chemgas",
+        "ammo_40mm_smoke_black",
+        "ammo_40mm_smoke_green",
+        "ammo_40mm_smoke_white"
+      ]
+    }
+  ]
+}

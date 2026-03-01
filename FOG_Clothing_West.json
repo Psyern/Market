@@ -1,0 +1,268 @@
+{
+  "m_Version": 12,
+  "DisplayName": "FOG_Clothing",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "FOG_Tactical_Fleece_Grey",
+      "MaxPriceThreshold": 150,
+      "MinPriceThreshold": 90,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_tactical_fleece_m81",
+        "fog_tactical_fleece_mc"
+      ]
+    },
+    {
+      "ClassName": "FOG_Pants_Crye_G2_MC",
+      "MaxPriceThreshold": 158,
+      "MinPriceThreshold": 96,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_pants_crye_g2_mcb",
+        "fog_pants_crye_g2_wtg",
+        "fog_pants_crye_g2_m81",
+        "fog_pants_crye_g2_aor1",
+        "fog_pants_crye_g2_aor2",
+        "fog_pants_crye_g2_gry",
+        "fog_pants_crye_g2_blue"
+      ]
+    },
+    {
+      "ClassName": "FOG_ArcticPants_Black",
+      "MaxPriceThreshold": 140,
+      "MinPriceThreshold": 85,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_arcticpants_mc",
+        "fog_arcticpants_mcb"
+      ]
+    },
+    {
+      "ClassName": "FOG_Shirt_ArcticJacket_Black",
+      "MaxPriceThreshold": 167,
+      "MinPriceThreshold": 101,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_Shirt_ArcticJacket_MCB",
+        "FOG_Shirt_ArcticJacket_MC"
+      ]
+    },
+    {
+      "ClassName": "FOG_FieldPants_MC",
+      "MaxPriceThreshold": 140,
+      "MinPriceThreshold": 85,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_FieldPants_MC_Ranger",
+        "fog_fieldpants_mcb",
+        "fog_fieldpants_aor2"
+      ]
+    },
+    {
+      "ClassName": "FOG_FieldShorts_MC",
+      "MaxPriceThreshold": 130,
+      "MinPriceThreshold": 79,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_FieldShorts_MC_Ranger",
+        "FOG_FieldShorts_M81",
+        "FOG_FieldShorts_MCB",
+        "FOG_FieldShorts_AOR2"
+      ]
+    },
+    {
+      "ClassName": "FOG_Enhanced_PCU_MC",
+      "MaxPriceThreshold": 175,
+      "MinPriceThreshold": 106,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_Enhanced_PCU_MC2"
+      ]
+    },
+    {
+      "ClassName": "FOG_Shirt_ISOF_Jacket_MC",
+      "MaxPriceThreshold": 167,
+      "MinPriceThreshold": 101,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_Shirt_ISOF_Jacket_MC2"
+      ]
+    },
+    {
+      "ClassName": "FOG_Jacket_SoftShell_MC",
+      "MaxPriceThreshold": 158,
+      "MinPriceThreshold": 96,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_Jacket_SoftShell_MCB"
+      ]
+    },
+    {
+      "ClassName": "FOG_Tactical_Hoodie_MC",
+      "MaxPriceThreshold": 150,
+      "MinPriceThreshold": 90,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_Tactical_Hoodie_MCB"
+      ]
+    },
+    {
+      "ClassName": "FOG_UFJ_Shirt_MC",
+      "MaxPriceThreshold": 140,
+      "MinPriceThreshold": 85,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_UFJ_Shirt_MCB"
+      ]
+    },
+    {
+      "ClassName": "FOG_L9Patagonia_MC",
+      "MaxPriceThreshold": 183,
+      "MinPriceThreshold": 111,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "fog_l9patagonia_mcb",
+        "fog_l9patagonia_mct",
+        "fog_l9patagonia_mca",
+        "fog_l9patagonia_marpat"
+      ]
+    },
+    {
+      "ClassName": "FOG_Crye_G3_Shirt_MC",
+      "MaxPriceThreshold": 158,
+      "MinPriceThreshold": 96,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_Crye_G3_Shirt_MC_BlackTrim",
+        "FOG_Crye_G3_Shirt_MC_FRACU",
+        "FOG_Crye_G3_Shirt_MC_Patagonia",
+        "FOG_Crye_G3_Shirt_MCB",
+        "FOG_Crye_G3_Shirt_MCA",
+        "FOG_Crye_G3_Shirt_MARPAT",
+        "FOG_Crye_G3_Shirt_MCT",
+        "FOG_Crye_G3_Shirt_Pantera"
+      ]
+    },
+    {
+      "ClassName": "FOG_Pants_Crye_G3_MC",
+      "MaxPriceThreshold": 65,
+      "MinPriceThreshold": 27,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_Pants_Crye_G3_MC_BlackTrim",
+        "FOG_Pants_Crye_G3_MC_FRACU",
+        "FOG_Pants_Crye_G3_MCB",
+        "FOG_Pants_Crye_G3_MCA",
+        "FOG_Pants_Crye_G3_MARPAT",
+        "FOG_Pants_Crye_G3_MCT",
+        "FOG_Pants_Crye_G3_Pantera"
+      ]
+    },
+    {
+      "ClassName": "FOG_MTF_Pants_MC",
+      "MaxPriceThreshold": 65,
+      "MinPriceThreshold": 27,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_MTF_Pants_MCB",
+        "FOG_MTF_Pants_ERDL",
+        "FOG_MTF_Pants_FK",
+        "FOG_MTF_Pants_TS"
+      ]
+    },
+    {
+      "ClassName": "FOG_MTF_Shirt_MC",
+      "MaxPriceThreshold": 65,
+      "MinPriceThreshold": 27,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_MTF_Shirt_MCB",
+        "FOG_MTF_Shirt_ERDL",
+        "FOG_MTF_Shirt_FK",
+        "FOG_MTF_Shirt_TS"
+      ]
+    },
+    {
+      "ClassName": "FOG_RugbyShirt_MC",
+      "MaxPriceThreshold": 65,
+      "MinPriceThreshold": 27,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_RugbyShirt_MCB",
+        "FOG_RugbyShirt_MCT"
+      ]
+    }
+  ]
+}

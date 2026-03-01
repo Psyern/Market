@@ -1,0 +1,54 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Snafu_Bipods BC",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [ 
+    {
+      "ClassName": "SNAFU_PKPBIPOD",
+      "MaxPriceThreshold": 20,
+      "MinPriceThreshold": 20,
+       "SellPricePercent": 50,
+      "MaxStockThreshold": 13,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFU_NPKPBIPOD",
+      "MaxPriceThreshold": 20,
+      "MinPriceThreshold": 20,
+       "SellPricePercent": 50,
+      "MaxStockThreshold": 12,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFU_M200B_BK",
+      "MaxPriceThreshold": 20,
+      "MinPriceThreshold": 20,
+       "SellPricePercent": 50,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFU_M249Bipod",
+      "MaxPriceThreshold": 20,
+      "MinPriceThreshold": 20,
+       "SellPricePercent": 50,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

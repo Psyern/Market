@@ -1,0 +1,73 @@
+{
+  "m_Version": 12,
+  "DisplayName": "FOG_Helmet_Accessories",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "FOG_Comtac3_Headphones_Black",
+      "MaxPriceThreshold": 140,
+      "MinPriceThreshold": 85,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_Comtac3_Headphones_CB",
+        "FOG_Comtac3_Headphones_FG",
+        "FOG_Comtac3_Headphones_RG",
+        "FOG_Comtac3_Headphones_AJ",
+        "FOG_Comtac3_Headphones_FG_Velcro",
+        "FOG_Comtac3_Headphones_Black_Velcro",
+        "FOG_Comtac3_Headphones_RG_XPI",
+        "FOG_Comtac3_Headphones_RG_Spray",
+        "FOG_Comtac3_Headphones_RG_Velcro",
+        "FOG_Comtac3_Headphones_RG_01",
+        "FOG_Comtac3_Headphones_Tan_Velcro",
+        "FOG_Comtac3_Headphones_CB_Velcro"                               
+      ]
+    },
+    {
+      "ClassName": "FOG_Comtac_IV_CB",
+      "MaxPriceThreshold": 130,
+      "MinPriceThreshold": 79,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_Comtac_IV_RG",
+        "FOG_Comtac_IV_Black"
+      ]
+    },
+    {
+      "ClassName": "FOG_FastMT_RAC_Tan",
+      "MaxPriceThreshold": 120,
+      "MinPriceThreshold": 72,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_FastMT_RAC_Black",
+        "FOG_FastMT_RAC_RG"
+      ]
+    },
+    {
+      "ClassName": "FOG_HGU_Visor_Black",
+      "MaxPriceThreshold": 82,
+      "MinPriceThreshold": 49,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

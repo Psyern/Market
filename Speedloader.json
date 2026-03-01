@@ -1,0 +1,43 @@
+{
+  "m_Version": 12,
+  "DisplayName": "SPEEDLOADER",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [ 
+    {
+      "ClassName": "MagLoaderBox",
+      "MaxPriceThreshold": 1120,
+      "MinPriceThreshold": 1024,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "MagLoaderBox2",
+      "MaxPriceThreshold": 2050,
+      "MinPriceThreshold": 1874,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "MagLoaderBox3",
+      "MaxPriceThreshold": 3650,
+      "MinPriceThreshold": 3338,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

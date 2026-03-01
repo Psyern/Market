@@ -1,0 +1,76 @@
+{
+  "m_Version": 12,
+  "DisplayName": "FOG_Accessories",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "FOG_MechanixGloves_MC",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 1200,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_MechanixGloves_Green",
+        "FOG_MechanixGloves_Tan",
+        "FOG_MechanixGloves_Black",
+        "FOG_MechanixGloves_RG",
+        "FOG_MechanixGloves_Black_Words",
+        "FOG_MechanixGloves_Skele"
+      ]
+    },
+    {
+      "ClassName": "FOG_WinterGloves_MC",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_WinterGloves_Tan",
+        "FOG_WinterGloves_White",
+        "FOG_WinterGloves_Black",
+        "FOG_WinterGloves_CB",
+        "FOG_WinterGloves_RG", 
+        "FOG_WinterGloves_MCB",
+        "FOG_WinterGloves_MCAL",
+        "FOG_WinterGloves_Red"     
+      ]
+    },
+    {
+      "ClassName": "FOG_FerroGloves_Tan",
+      "MaxPriceThreshold": 3500,
+      "MinPriceThreshold": 1400,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_FerroGloves_Grey",
+        "FOG_FerroGloves_Red",
+        "FOG_FerroGloves_Blue",
+        "FOG_FerroGloves_White",
+        "FOG_FerroGloves_White_TanTrim",
+        "FOG_FerroGloves_CB",
+        "FOG_FerroGloves_RG",
+        "FOG_FerroGloves_Black",
+        "FOG_FerroGloves_Black_WhiteTrim",
+        "FOG_FerroGloves_Black_BlueTrim",
+        "FOG_FerroGloves_Black_RedTrim",
+        "FOG_FerroGloves_Black_TanTrim",
+        "FOG_FerroGloves_MC",
+        "FOG_FerroGloves_MCB",
+        "FOG_FerroGloves_M81",
+        "FOG_FerroGloves_AJ"   
+      ]
+    }
+  ]
+}

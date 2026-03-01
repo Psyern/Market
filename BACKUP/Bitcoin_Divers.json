@@ -1,0 +1,65 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Secure Container",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [ 
+    {
+      "ClassName": "A6_SecureContainer_Alpha",
+      "MaxPriceThreshold": 5,
+      "MinPriceThreshold": 0,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "A6_SecureContainer_Beta",
+      "MaxPriceThreshold": 134,
+      "MinPriceThreshold": 134,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "A6_SecureContainer_Epsilon",
+      "MaxPriceThreshold": 334,
+      "MinPriceThreshold": 334,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "A6_SecureContainer_Gamma",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 500,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "A6_SecureContainer_Kappa",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 1000,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }    
+  ]
+}

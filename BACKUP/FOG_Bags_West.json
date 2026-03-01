@@ -1,0 +1,98 @@
+{
+  "m_Version": 12,
+  "DisplayName": "FOG_Bags_West",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "FOG_Bag_CommsBag_MC",
+      "MaxPriceThreshold": 6000,
+      "MinPriceThreshold": 2400,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_Bag_CommsBag_MCAL",
+        "FOG_Bag_CommsBag_MCB",
+        "FOG_Bag_CommsBag_MCT"
+      ]
+    },
+    {
+      "ClassName": "FOG_Bag_6ShBagT_Green",
+      "MaxPriceThreshold": 6000,
+      "MinPriceThreshold": 2400,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_Bag_6ShBagT_Black"
+      ]
+    },
+    {
+      "ClassName": "FOG_Bag_DrawBridge_MC",
+      "MaxPriceThreshold": 7000,
+      "MinPriceThreshold": 2800,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_Bag_DrawBridge_MCAL",
+        "FOG_Bag_DrawBridge_MCB",
+        "FOG_Bag_DrawBridge_Black"
+      ]
+    },
+    {
+      "ClassName": "FOG_Bag_BlackJack_MC",
+      "MaxPriceThreshold": 7000,
+      "MinPriceThreshold": 2800,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_Bag_BlackJack_MCB",
+        "FOG_Bag_BlackJack_MCT",
+        "FOG_Bag_BlackJack_ERDL",
+        "FOG_Bag_BlackJack_MCAL"
+      ]
+    },
+    {
+      "ClassName": "FOG_Bag_F4Terminator_BlackTiger",
+      "MaxPriceThreshold": 8000,
+      "MinPriceThreshold": 3200,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_Bag_F4Terminator_Black",
+        "FOG_Bag_F4Terminator_OD"
+      ]
+    },
+    {
+      "ClassName": "FOG_Bag_Trizip_MC",
+      "MaxPriceThreshold": 7000,
+      "MinPriceThreshold": 2800,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_Bag_Trizip_Marpat",
+        "FOG_Bag_Trizip_ERDL",
+        "FOG_Bag_Trizip_Black"
+      ]
+    }
+  ]
+}

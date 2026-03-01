@@ -1,0 +1,165 @@
+{
+  "m_Version": 12,
+  "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_RIFLES",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [ 
+    {
+      "ClassName": "izh18",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 850,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ruger1022",
+      "MaxPriceThreshold": 1200,
+      "MinPriceThreshold": 1020,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 13,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "mag_ruger1022_15rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "repeater",
+      "MaxPriceThreshold": 20000,
+      "MinPriceThreshold": 17000,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 12,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "mosin9130",
+      "MaxPriceThreshold": 100000,
+      "MinPriceThreshold": 85000,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "cz527",
+      "MaxPriceThreshold": 40000,
+      "MinPriceThreshold": 34000,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "mag_cz527_5rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "cz550",
+      "MaxPriceThreshold": 400000,
+      "MinPriceThreshold": 340000,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 3,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "mag_cz550_10rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "winchester70",
+      "MaxPriceThreshold": 200000,
+      "MinPriceThreshold": 170000,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ssg82",
+      "MaxPriceThreshold": 30000,
+      "MinPriceThreshold": 25500,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 7,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "mag_ssg82_5rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "sks",
+      "MaxPriceThreshold": 80000,
+      "MinPriceThreshold": 68000,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 3,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "sks_bayonet"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "m14",
+      "MaxPriceThreshold": 450000,
+      "MinPriceThreshold": 382500,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "expansion_kar98",
+      "MaxPriceThreshold": 200000,
+      "MinPriceThreshold": 170000,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 2,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "expansion_m1a",
+      "MaxPriceThreshold": 450000,
+      "MinPriceThreshold": 382500,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 6,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "mag_expansion_m14_10rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "Scout",
+      "MaxPriceThreshold": 230000,
+      "MinPriceThreshold": 195500,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 4,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

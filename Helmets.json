@@ -1,0 +1,679 @@
+{
+  "m_Version": 12,
+  "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_HELMETS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [ 
+    {
+      "ClassName": "constructionhelmet_blue",
+      "MaxPriceThreshold": 40,
+      "MinPriceThreshold": 36,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "constructionhelmet_orange",
+        "constructionhelmet_red",
+        "constructionhelmet_white",
+        "constructionhelmet_lime"
+      ]
+    },
+    {
+      "ClassName": "constructionhelmet_orange",
+      "MaxPriceThreshold": 40,
+      "MinPriceThreshold": 36,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 13,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "constructionhelmet_red",
+      "MaxPriceThreshold": 40,
+      "MinPriceThreshold": 36,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 12,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "constructionhelmet_white",
+      "MaxPriceThreshold": 40,
+      "MinPriceThreshold": 36,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "constructionhelmet_lime",
+      "MaxPriceThreshold": 40,
+      "MinPriceThreshold": 36,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 3,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "skatehelmet_blue",
+      "MaxPriceThreshold": 25,
+      "MinPriceThreshold": 23,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "skatehelmet_gray",
+        "skatehelmet_red",
+        "skatehelmet_black",
+        "skatehelmet_green"
+      ]
+    },
+    {
+      "ClassName": "skatehelmet_gray",
+      "MaxPriceThreshold": 25,
+      "MinPriceThreshold": 23,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 7,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "skatehelmet_red",
+      "MaxPriceThreshold": 25,
+      "MinPriceThreshold": 23,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 3,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "skatehelmet_black",
+      "MaxPriceThreshold": 25,
+      "MinPriceThreshold": 23,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "skatehelmet_green",
+      "MaxPriceThreshold": 25,
+      "MinPriceThreshold": 23,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 2,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "hockeyhelmet_blue",
+      "MaxPriceThreshold": 25,
+      "MinPriceThreshold": 23,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 6,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "hockeyhelmet_red",
+        "hockeyhelmet_white",
+        "hockeyhelmet_black"
+      ]
+    },
+    {
+      "ClassName": "hockeyhelmet_red",
+      "MaxPriceThreshold": 25,
+      "MinPriceThreshold": 23,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "hockeyhelmet_white",
+      "MaxPriceThreshold": 25,
+      "MinPriceThreshold": 23,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 13,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "hockeyhelmet_black",
+      "MaxPriceThreshold": 25,
+      "MinPriceThreshold": 23,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 3,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "dirtbikehelmet_mouthguard",
+      "MaxPriceThreshold": 25,
+      "MinPriceThreshold": 23,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 4,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "dirtbikehelmet_visor",
+      "MaxPriceThreshold": 25,
+      "MinPriceThreshold": 23,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 2,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "dirtbikehelmet_chernarus",
+      "MaxPriceThreshold": 25,
+      "MinPriceThreshold": 23,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 9,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "dirtbikehelmet_mouthguard",
+        "dirtbikehelmet_visor"
+      ],
+      "Variants": [
+        "dirtbikehelmet_police",
+        "dirtbikehelmet_red",
+        "dirtbikehelmet_green",
+        "dirtbikehelmet_blue",
+        "dirtbikehelmet_black",
+        "dirtbikehelmet_khaki"
+      ]
+    },
+    {
+      "ClassName": "dirtbikehelmet_police",
+      "MaxPriceThreshold": 25,
+      "MinPriceThreshold": 23,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 12,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "dirtbikehelmet_mouthguard",
+        "dirtbikehelmet_visor"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "dirtbikehelmet_red",
+      "MaxPriceThreshold": 25,
+      "MinPriceThreshold": 23,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 13,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "dirtbikehelmet_mouthguard",
+        "dirtbikehelmet_visor"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "dirtbikehelmet_green",
+      "MaxPriceThreshold": 25,
+      "MinPriceThreshold": 23,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "dirtbikehelmet_mouthguard",
+        "dirtbikehelmet_visor"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "dirtbikehelmet_blue",
+      "MaxPriceThreshold": 25,
+      "MinPriceThreshold": 23,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 12,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "dirtbikehelmet_mouthguard",
+        "dirtbikehelmet_visor"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "dirtbikehelmet_black",
+      "MaxPriceThreshold": 25,
+      "MinPriceThreshold": 23,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "dirtbikehelmet_mouthguard",
+        "dirtbikehelmet_visor"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "dirtbikehelmet_khaki",
+      "MaxPriceThreshold": 25,
+      "MinPriceThreshold": 23,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "dirtbikehelmet_mouthguard",
+        "dirtbikehelmet_visor"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "motohelmet_lime",
+      "MaxPriceThreshold": 47,
+      "MinPriceThreshold": 43,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 13,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "motohelmet_blue",
+        "motohelmet_red",
+        "motohelmet_white",
+        "motohelmet_grey",
+        "motohelmet_black",
+        "motohelmet_green",
+        "darkmotohelmet_lime",
+        "darkmotohelmet_blue",
+        "darkmotohelmet_red",
+        "darkmotohelmet_white",
+        "darkmotohelmet_grey",
+        "darkmotohelmet_black",
+        "darkmotohelmet_green"
+      ]
+    },
+    {
+      "ClassName": "motohelmet_blue",
+      "MaxPriceThreshold": 52,
+      "MinPriceThreshold": 47,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 2,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "motohelmet_red",
+      "MaxPriceThreshold": 47,
+      "MinPriceThreshold": 43,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 9,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "motohelmet_white",
+      "MaxPriceThreshold": 47,
+      "MinPriceThreshold": 43,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 9,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "motohelmet_grey",
+      "MaxPriceThreshold": 71,
+      "MinPriceThreshold": 65,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 3,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "motohelmet_black",
+      "MaxPriceThreshold": 71,
+      "MinPriceThreshold": 65,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "motohelmet_green",
+      "MaxPriceThreshold": 52,
+      "MinPriceThreshold": 47,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "darkmotohelmet_grey",
+      "MaxPriceThreshold": 72,
+      "MinPriceThreshold": 66,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "darkmotohelmet_lime",
+      "MaxPriceThreshold": 47,
+      "MinPriceThreshold": 43,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 8,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "darkmotohelmet_blue",
+      "MaxPriceThreshold": 52,
+      "MinPriceThreshold": 48,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 7,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "darkmotohelmet_red",
+      "MaxPriceThreshold": 47,
+      "MinPriceThreshold": 43,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "darkmotohelmet_white",
+      "MaxPriceThreshold": 47,
+      "MinPriceThreshold": 43,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 14,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "darkmotohelmet_black",
+      "MaxPriceThreshold": 72,
+      "MinPriceThreshold": 66,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 4,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "darkmotohelmet_green",
+      "MaxPriceThreshold": 52,
+      "MinPriceThreshold": 48,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 9,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "tankerhelmet",
+      "MaxPriceThreshold": 173,
+      "MinPriceThreshold": 158,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 9,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "greathelm",
+      "MaxPriceThreshold": 33,
+      "MinPriceThreshold": 31,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 12,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "zsh3pilothelmet",
+      "MaxPriceThreshold": 172,
+      "MinPriceThreshold": 157,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 6,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "zsh3pilothelmet_green",
+        "zsh3pilothelmet_black"
+      ]
+    },
+    {
+      "ClassName": "zsh3pilothelmet_green",
+      "MaxPriceThreshold": 22,
+      "MinPriceThreshold": 20,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 7,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "zsh3pilothelmet_black",
+      "MaxPriceThreshold": 22,
+      "MinPriceThreshold": 20,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 14,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "firefightershelmet_red",
+      "MaxPriceThreshold": 33,
+      "MinPriceThreshold": 31,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 3,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "firefightershelmet_white"
+      ]
+    },
+    {
+      "ClassName": "mich2001helmet",
+      "MaxPriceThreshold": 184,
+      "MinPriceThreshold": 168,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 7,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "expansionmich2001desert"
+      ]
+    },
+    {
+      "ClassName": "gorkahelmetvisor",
+      "MaxPriceThreshold": 151,
+      "MinPriceThreshold": 138,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 6,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "gorkahelmet",
+      "MaxPriceThreshold": 155,
+      "MinPriceThreshold": 141,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 9,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "gorkahelmetvisor"
+      ],
+      "Variants": [
+        "gorkahelmet_black"
+      ]
+    },
+    {
+      "ClassName": "ssh68helmet",
+      "MaxPriceThreshold": 59,
+      "MinPriceThreshold": 54,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 9,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ballistichelmet_un",
+      "MaxPriceThreshold": 61,
+      "MinPriceThreshold": 56,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 9,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ballistichelmet_black",
+        "ballistichelmet_green",
+        "ballistichelmet_bdu",
+        "ballistichelmet_desert",
+        "ballistichelmet_woodland",
+        "ballistichelmet_navy",
+        "ballistichelmet_winter"
+      ]
+    },
+    {
+      "ClassName": "ballistichelmet_bdu",
+      "MaxPriceThreshold": 61,
+      "MinPriceThreshold": 56,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 7,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ballistichelmet_woodland",
+      "MaxPriceThreshold": 61,
+      "MinPriceThreshold": 56,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ballistichelmet_navy",
+      "MaxPriceThreshold": 20,
+      "MinPriceThreshold": 19,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 8,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ballistichelmet_winter",
+      "MaxPriceThreshold": 62,
+      "MinPriceThreshold": 56,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 3,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "chainmail_coif",
+      "MaxPriceThreshold": 34,
+      "MinPriceThreshold": 31,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 3,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "norsehelm",
+      "MaxPriceThreshold": 20,
+      "MinPriceThreshold": 19,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

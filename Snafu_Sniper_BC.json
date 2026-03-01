@@ -1,0 +1,72 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Snafu_Sniper BC",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [ 
+    {
+      "ClassName": "SNAFUAX50_GUN",
+      "MaxPriceThreshold": 88,
+      "MinPriceThreshold": 88,
+       "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 24,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GCGN_M200",
+      "MaxPriceThreshold": 44,
+      "MinPriceThreshold": 44,
+       "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 24,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "SNAFU_M200Green",
+        "SNAFU_M200SNOW",
+        "GCGN_M200_Tan"
+      ]
+    },
+    {
+      "ClassName": "SNAFU_M300BK",
+      "MaxPriceThreshold": 65,
+      "MinPriceThreshold": 65,
+       "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 24,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "SNAFU_M300TAN",
+        "SNAFU_M300Green"
+      ]
+    },
+    {
+      "ClassName": "SNAFUM96",
+      "MaxPriceThreshold": 40,
+      "MinPriceThreshold": 40,
+       "SellPricePercent": 50,
+      "MaxStockThreshold": 25,
+      "MinStockThreshold": 24,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "SNAFUAlligator",
+      "MaxPriceThreshold": 260,
+      "MinPriceThreshold": 260,
+       "SellPricePercent": 50,
+      "MaxStockThreshold": 9,
+      "MinStockThreshold": 4,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "m_Version": 12,
+  "DisplayName": "FOG_Footwear",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "FOG_Maritime_Shoes_MC",
+      "MaxPriceThreshold": 4000,
+      "MinPriceThreshold": 1600,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_Maritime_Shoes_MC_T",
+        "FOG_Maritime_Shoes_MCB",
+        "FOG_Maritime_Shoes_MCB_T",
+        "FOG_Maritime_Shoes_M81"
+      ]
+    },
+    {
+      "ClassName": "FOG_XAForces_Shoes_CB",
+      "MaxPriceThreshold": 4000,
+      "MinPriceThreshold": 1600,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_XAForces_Shoes_Tan"
+      ]
+    },
+    {
+      "ClassName": "FOG_Combat_HikingBoots_Brown",
+      "MaxPriceThreshold": 6000,
+      "MinPriceThreshold": 2400,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "FOG_Combat_HikingBoots_Khaki"
+      ]
+    },
+    {
+      "ClassName": "FOG_Operator_Boots_Black",
+      "MaxPriceThreshold": 7000,
+      "MinPriceThreshold": 2800,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

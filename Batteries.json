@@ -1,0 +1,98 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Batteries",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [ 
+    {
+      "ClassName": "battery9v",
+      "MaxPriceThreshold": 158,
+      "MinPriceThreshold": 108,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 51,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Battery9V_LL",
+      "MaxPriceThreshold": 823,
+      "MinPriceThreshold": 562,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "TruckBattery_Duracell",
+      "MaxPriceThreshold": 4563,
+      "MinPriceThreshold": 2921,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "CarBattery_Interstate",
+      "MaxPriceThreshold": 2921,
+      "MinPriceThreshold": 1765,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "CarBattery_LL",
+      "MaxPriceThreshold": 2494,
+      "MinPriceThreshold": 1640,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "CarBattery_Kia",
+      "MaxPriceThreshold": 1765,
+      "MinPriceThreshold": 1507,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "CarBattery_Subaru",
+      "MaxPriceThreshold": 2206,
+      "MinPriceThreshold": 1507,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "CarBattery_Kia2",
+      "MaxPriceThreshold": 1995,
+      "MinPriceThreshold": 1363,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

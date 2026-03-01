@@ -1,0 +1,21 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Bitcoin Change",
+  "Icon": "Coin",
+  "Color": "FBFCFEFF",
+  "IsExchange": 1,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "Bitcoin",
+      "MaxPriceThreshold": 1,
+      "MinPriceThreshold": 1,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

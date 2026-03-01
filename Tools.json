@@ -1,0 +1,320 @@
+{
+  "m_Version": 12,
+  "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_TOOLS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [ 
+    {
+      "ClassName": "screwdriver",
+      "MaxPriceThreshold": 313,
+      "MinPriceThreshold": 286,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "wrench",
+      "MaxPriceThreshold": 401,
+      "MinPriceThreshold": 366,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "pliers",
+      "MaxPriceThreshold": 401,
+      "MinPriceThreshold": 366,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "whetstone",
+      "MaxPriceThreshold": 434,
+      "MinPriceThreshold": 397,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "hammer",
+      "MaxPriceThreshold": 140,
+      "MinPriceThreshold": 128,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "hacksaw",
+      "MaxPriceThreshold": 135,
+      "MinPriceThreshold": 124,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "handsaw",
+      "MaxPriceThreshold": 135,
+      "MinPriceThreshold": 124,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "canopener",
+      "MaxPriceThreshold": 100,
+      "MinPriceThreshold": 91,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "hatchet",
+      "MaxPriceThreshold": 98,
+      "MinPriceThreshold": 90,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "lockpick",
+      "MaxPriceThreshold": 384,
+      "MinPriceThreshold": 351,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 70,
+      "MinStockThreshold": 6,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "lugwrench",
+      "MaxPriceThreshold": 159,
+      "MinPriceThreshold": 146,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "pipewrench",
+      "MaxPriceThreshold": 134,
+      "MinPriceThreshold": 122,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "fryingpan",
+      "MaxPriceThreshold": 102,
+      "MinPriceThreshold": 93,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "sickle",
+      "MaxPriceThreshold": 224,
+      "MinPriceThreshold": 205,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "crowbar",
+      "MaxPriceThreshold": 384,
+      "MinPriceThreshold": 351,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 70,
+      "MinStockThreshold": 6,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "shovel",
+      "MaxPriceThreshold": 339,
+      "MinPriceThreshold": 310,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "pickaxe",
+      "MaxPriceThreshold": 362,
+      "MinPriceThreshold": 331,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "sledgehammer",
+      "MaxPriceThreshold": 384,
+      "MinPriceThreshold": 351,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 20,
+      "MinStockThreshold": 6,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "farminghoe",
+      "MaxPriceThreshold": 101,
+      "MinPriceThreshold": 92,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "woodaxe",
+      "MaxPriceThreshold": 303,
+      "MinPriceThreshold": 277,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "firefighteraxe",
+      "MaxPriceThreshold": 142,
+      "MinPriceThreshold": 130,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "pitchfork",
+      "MaxPriceThreshold": 126,
+      "MinPriceThreshold": 115,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "blowtorch",
+      "MaxPriceThreshold": 168,
+      "MinPriceThreshold": 154,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "smallgascanister"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "fieldshovel",
+      "MaxPriceThreshold": 255,
+      "MinPriceThreshold": 233,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "meattenderizer",
+      "MaxPriceThreshold": 105,
+      "MinPriceThreshold": 96,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "iceaxe",
+      "MaxPriceThreshold": 97,
+      "MinPriceThreshold": 89,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "expansionpropanetorch",
+      "MaxPriceThreshold": 362,
+      "MinPriceThreshold": 331,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "expansionboltcutters",
+      "MaxPriceThreshold": 432,
+      "MinPriceThreshold": 395,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

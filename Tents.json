@@ -1,0 +1,83 @@
+{
+  "m_Version": 12,
+  "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_TENTS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [ 
+    {
+      "ClassName": "partytent",
+      "MaxPriceThreshold": 109,
+      "MinPriceThreshold": 100,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 14,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "partytent_blue",
+        "partytent_brown",
+        "partytent_lunapark"
+      ]
+    },
+    {
+      "ClassName": "mediumtent",
+      "MaxPriceThreshold": 95,
+      "MinPriceThreshold": 87,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "mediumtent_orange",
+        "mediumtent_green"
+      ]
+    },
+    {
+      "ClassName": "largetent",
+      "MaxPriceThreshold": 226,
+      "MinPriceThreshold": 207,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 14,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "cartent",
+      "MaxPriceThreshold": 152,
+      "MinPriceThreshold": 139,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 3,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "expansioncamotentkit",
+      "MaxPriceThreshold": 111,
+      "MinPriceThreshold": 101,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 2,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "expansioncamoboxkit",
+      "MaxPriceThreshold": 111,
+      "MinPriceThreshold": 101,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

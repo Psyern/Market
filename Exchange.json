@@ -1,0 +1,65 @@
+{
+  "m_Version": 12,
+  "DisplayName": "#STR_EXPANSION_MARKET_CATEGORY_EXCHANGE",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 1,
+  "InitStockPercent": 75.0,
+  "Items": [ 
+    {
+      "ClassName": "expansionbanknotehryvnia",
+      "MaxPriceThreshold": 1,
+      "MinPriceThreshold": 1,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ExpansionGoldBar",
+      "MaxPriceThreshold": 664,
+      "MinPriceThreshold": 664,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ExpansionSilverBar",
+      "MaxPriceThreshold": 158,
+      "MinPriceThreshold": 158,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ExpansionGoldNugget",
+      "MaxPriceThreshold": 183,
+      "MinPriceThreshold": 183,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ExpansionSilverNugget",
+      "MaxPriceThreshold": 44,
+      "MinPriceThreshold": 44,
+       "SellPricePercent": -1,
+      "MaxStockThreshold": 75,
+      "MinStockThreshold": 75,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}
