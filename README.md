@@ -1,6 +1,48 @@
-# 🏪 DayZ Expansion Market – Price Configuration
+# 🏪 DayZ Expansion Market – Price Converter
 
-DayZ Expansion Market JSON-Preiskonfiguration mit Power-Law-basiertem Preiskonverter für Massenanpassungen.
+PowerShell Drag & Drop Tool zur automatischen Preisanpassung von DayZ Expansion Market JSON-Dateien mittels Power-Law-Formel.
+
+---
+
+## 🚀 Schnellstart (Drag & Drop)
+
+```
+1.  Windows PowerShell öffnen
+2.  Die Datei  ps1\PriceConverter.ps1  ins Fenster ziehen
+3.  Leertaste drücken
+4.  Eine .json Datei  ODER  einen ganzen Market-Ordner reinziehen
+5.  Enter drücken – fertig!
+```
+
+> ✅ Originale werden **nicht** verändert – Ergebnis landet im Unterordner **`NewMarket/`** neben den Originaldateien.
+
+### Beispiel
+
+```
+PS> & "C:\Market\ps1\PriceConverter.ps1" "C:\Server\mpmissions\Market"
+
+  ============================================
+   DayZ Market Price Converter
+  ============================================
+  Ordner:   C:\Server\mpmissions\Market
+  Dateien:  131
+  Formel:   NeuerPreis = 0.976425 * AlterPreis ^ 0.551901
+  Ausgabe:  C:\Server\mpmissions\Market\NewMarket
+  ============================================
+
+  [OK]  Cars.json  (6 / 6 Items)
+  [OK]  Assault_Rifles.json  (11 / 11 Items)
+  ...
+
+  ============================================
+   ZUSAMMENFASSUNG
+  ============================================
+  Dateien verarbeitet:  131
+  Dateien geaendert:    130
+  Items gesamt:         2563
+  Items geaendert:      2559
+  ============================================
+```
 
 ---
 
@@ -11,8 +53,8 @@ Market/
 ├── *.json                  # Aktuelle Market-Konfigurationsdateien
 ├── BACKUP/                 # Original-Backup aller JSON-Dateien (vor Anpassung)
 ├── ps1/                    # PowerShell-Tools
-│   ├── PriceConverter.ps1  # ⭐ Haupttool: Preise umrechnen
-│   ├── compare_prices.ps1  # Preise zwischen Ordnern vergleichen
+│   ├── PriceConverter.ps1  # ⭐ Haupttool: Drag & Drop Preiskonverter
+│   ├── compare_prices.ps1  # Preise zwischen zwei Ordnern vergleichen
 │   └── analyze.ps1         # Regressions-Analyse der Preisdaten
 └── README.md
 ```
@@ -107,72 +149,69 @@ $$\text{NeuerPreis} = \text{round}\left( A \times \text{AlterPreis}^{B} \right)$
 
 ## ⭐ PriceConverter.ps1 – Haupttool
 
-PowerShell-Script zur automatischen Preisanpassung aller Market-JSON-Dateien.
+PowerShell Drag & Drop Script zur automatischen Preisanpassung aller Market-JSON-Dateien.
 
 ### Voraussetzungen
 
 - Windows PowerShell 5.1+ oder PowerShell 7+
 - DayZ Expansion Market JSON-Dateien im Standard-Format
 
-### Verwendung
+### Verwendung (Drag & Drop)
 
-#### 1. Einzelnen Preis umrechnen
+| Schritt | Aktion |
+|---|---|
+| 1 | **PowerShell öffnen** (Windows-Taste → „PowerShell" → Enter) |
+| 2 | `ps1\PriceConverter.ps1` **ins Fenster ziehen** |
+| 3 | **Leertaste** drücken |
+| 4 | **JSON-Datei** oder **Market-Ordner** reinziehen |
+| 5 | **Enter** drücken |
 
-```powershell
-.\ps1\PriceConverter.ps1 -Price 1000000
-```
+Die konvertierten Dateien landen automatisch im Unterordner **`NewMarket/`** neben den Originalen. Originale bleiben unverändert.
 
-Gibt den konvertierten Preis aus und zeigt eine vollständige Referenztabelle.
-
-#### 2. Einzelne JSON-Datei konvertieren
-
-```powershell
-.\ps1\PriceConverter.ps1 -File "C:\pfad\zu\Cars.json"
-```
-
-#### 3. Alle JSON-Dateien in einem Ordner konvertieren
+#### Einzelne Datei konvertieren
 
 ```powershell
-.\ps1\PriceConverter.ps1 -Folder "C:\pfad\zu\Market"
+.\ps1\PriceConverter.ps1 "C:\pfad\zu\Cars.json"
+# → Ergebnis: C:\pfad\zu\NewMarket\Cars.json
 ```
 
-> ⚠️ Es wird automatisch ein Backup im Unterordner `BACKUP_BEFORE_CONVERT/` angelegt!
-
-#### 4. Dry-Run (nur testen, keine Änderungen)
+#### Ganzen Ordner konvertieren
 
 ```powershell
-.\ps1\PriceConverter.ps1 -Folder "C:\pfad\zu\Market" -DryRun
+.\ps1\PriceConverter.ps1 "C:\pfad\zu\Market"
+# → Ergebnis: C:\pfad\zu\Market\NewMarket\*.json
 ```
 
-Zeigt alle Änderungen an, ohne Dateien zu verändern.
+#### Dry-Run (nur Vorschau, keine Änderungen)
 
-#### 5. Eigene Formel-Parameter
+```powershell
+.\ps1\PriceConverter.ps1 "C:\pfad\zu\Market" -DryRun
+```
+
+#### Eigene Formel-Parameter
 
 ```powershell
 # Weniger aggressiv (B=0.65)
-.\ps1\PriceConverter.ps1 -Folder "C:\pfad\zu\Market" -A 0.976425 -B 0.65
+.\ps1\PriceConverter.ps1 "C:\pfad\zu\Market" -B 0.65
 
 # Viel aggressiver (B=0.45)
-.\ps1\PriceConverter.ps1 -Folder "C:\pfad\zu\Market" -A 0.976425 -B 0.45
+.\ps1\PriceConverter.ps1 "C:\pfad\zu\Market" -B 0.45
 ```
 
-#### 6. Ohne Backup
+#### Nur Hilfe / Referenztabelle anzeigen
 
 ```powershell
-.\ps1\PriceConverter.ps1 -Folder "C:\pfad\zu\Market" -NoBackup
+.\ps1\PriceConverter.ps1
 ```
 
 ### Alle Parameter
 
 | Parameter | Typ | Standard | Beschreibung |
 |---|---|---|---|
-| `-Price` | Double | – | Einzelner Preis zum Testen |
-| `-File` | String | – | Pfad zu einer einzelnen JSON-Datei |
-| `-Folder` | String | – | Pfad zu einem Ordner mit JSON-Dateien |
+| *(1. Argument)* | String | – | Pfad zur JSON-Datei oder zum Ordner (Drag & Drop) |
 | `-A` | Double | `0.976425` | Koeffizient A der Formel |
 | `-B` | Double | `0.551901` | Exponent B der Formel |
 | `-DryRun` | Switch | `false` | Nur anzeigen, nichts ändern |
-| `-NoBackup` | Switch | `false` | Kein Backup erstellen |
 
 ---
 
@@ -216,18 +255,19 @@ Extrahiert alle einzigartigen Alter→Neuer-Preis-Paare und berechnet logarithmi
 ## 💡 Beispiel-Workflow: Neue Preisanpassung
 
 ```powershell
-# 1. Teste die Wirkung mit verschiedenen B-Werten
-.\ps1\PriceConverter.ps1 -Price 500000
-.\ps1\PriceConverter.ps1 -Price 500000 -B 0.65
+# 1. Hilfe und Referenztabelle anzeigen
+.\ps1\PriceConverter.ps1
 
-# 2. Dry-Run auf dem ganzen Ordner
-.\ps1\PriceConverter.ps1 -Folder "C:\Server\Market" -B 0.65 -DryRun
+# 2. Dry-Run auf dem ganzen Ordner (nur Vorschau)
+.\ps1\PriceConverter.ps1 "C:\Server\Market" -DryRun
 
-# 3. Wenn zufrieden – anwenden (Backup wird automatisch erstellt)
-.\ps1\PriceConverter.ps1 -Folder "C:\Server\Market" -B 0.65
+# 3. Mit anderem Exponenten testen
+.\ps1\PriceConverter.ps1 "C:\Server\Market" -B 0.65 -DryRun
 
-# 4. Vergleich prüfen
-.\ps1\compare_prices.ps1
+# 4. Wenn zufrieden – anwenden (Ergebnis in NewMarket/)
+.\ps1\PriceConverter.ps1 "C:\Server\Market" -B 0.65
+
+# 5. NewMarket-Dateien auf den Server kopieren
 ```
 
 ---
